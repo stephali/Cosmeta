@@ -3,7 +3,7 @@ A community-driven platform where beauty enthusiasts share honest reviews, ratin
 
 Cosmeta is designed to address gaps in the beauty industry: lack of honest reviews, shade-matching frustrations, and ingredient transparency. Users can post reviews, share swatches, and explore personalized product recommendations.
 
-Cosmeta is currently in the MVP development stage, focusing on a mobile-first full-stack web application. A mobile version is planned for future expansion to reach a broader user base.
+Cosmeta is currently in the MVP development stage, focusing on a mobile-first, URL based, full-stack web application. A mobile app is planned for future expansion to reach a broader user base.
 
 ### Tech Stack
 - **Frontend:** React.js, HTML/CSS, JavaScript
