@@ -23,7 +23,7 @@ View the Figma prototype: https://www.figma.com/proto/aXIKKuC6kfA72jODIhsMGz/Cos
 - Beauty vanity (saved items)
 - Community engagement (like, comment)
 
-### AI/ML & Data Research (Phase I)
+### AI/ML Data Research (Phase I)
 - **Sentiment Analysis:** Classify reviews as positive or negative
 - **NLP Summarization:** Extract top pros and cons from reviews
 - **Classification:** Categorize products (foundation, lipstick, blush, etc.)
