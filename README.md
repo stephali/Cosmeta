@@ -1,5 +1,5 @@
 # Cosmeta
-A community-driven platform where beauty enthusiasts share honest reviews, ratings, and swatches to help each other discover makeup products that truly work for them. 
+A community-driven platform where beauty enthusiasts can share honest reviews, ratings, and swatches to help each other discover makeup products that truly work for them. 
 
 Cosmeta is designed to address gaps in the beauty industry: lack of honest reviews, shade-matching frustrations, and ingredient transparency. Users can post reviews, share swatches, and explore personalized product recommendations.
 
